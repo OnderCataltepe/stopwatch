@@ -1,0 +1,45 @@
+.container{
+    padding: 2rem;
+}
+
+.timeDiv{
+    color: white;
+    font-size: 2rem;
+}
+
+
+.buttonDiv button{
+    padding: 0.5rem 0rem;
+    font-size: 1.6rem;
+    border-radius: 2rem;
+    width: 10rem;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.buttonDiv button:hover{
+    opacity: 1;
+}
+
+.disabledButton{
+    opacity: 0.5 !important;
+    cursor: default !important;
+}
+
+.startButton{
+    background-color: #045a08;
+}
+
+.lapAndResetButton{
+    background-color: #312d2d;
+}
+
+.stopButton{
+    background-color: #880b0b;
+}
+
+.resumeButton{
+    background-color: #693db5;
+}

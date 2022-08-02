@@ -1,0 +1,48 @@
+.tableContainer{
+   color: gray;
+   font-size: 1.4rem;
+}
+
+table thead{
+    display: block;
+    border-bottom: 0.1rem solid white;
+}
+table thead th:nth-child(1), table tbody td:nth-child(1){
+    width: 5rem;
+    font-weight: bold;
+}
+
+table thead th, table tbody td{
+    width: 10rem;
+}
+
+tbody{
+    display: block;
+    height: 12rem;
+    overflow-y: scroll;
+    margin-top: 1rem;
+}
+
+table tbody tr td:nth-child(3){
+    color: white;
+}
+
+tbody::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+tbody::-webkit-scrollbar-thumb {
+    background: gray; 
+    border-radius: 0.5rem;
+}
+
+.maxRed{
+    color: rgb(255, 0, 0) !important;
+    text-shadow: 0rem 0rem 1.4rem rgb(255, 255, 255)
+}
+.minPurple{
+    color: purple !important;
+    text-shadow: 0rem 0rem 1.4rem rgb(255, 255, 255)
+
+}
+ 
