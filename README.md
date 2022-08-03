@@ -10,8 +10,8 @@ includes lap time list(shortest and longest lap times are marked)
 
 ### Install dependencies
 
-npm install
+`npm install`
 
 ### Runs the app
 
-npm start
+`npm start`
