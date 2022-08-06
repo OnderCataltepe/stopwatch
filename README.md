@@ -1,6 +1,6 @@
 # Stopwatch Timer
 
-A stopwatch app built with React and Redux. [Stopwatch App](https://ondercataltepe.surge.sh/)
+A stopwatch app built with React and Redux. [Stopwatch App](https://stop-watchhctaw-ptos.surge.sh/)
 
 ## Features
 
