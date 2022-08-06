@@ -1,10 +1,10 @@
 # Stopwatch Timer
 
-A stopwatch app built with React and Redux. Go to [APP](https://ondercataltepe.surge.sh/)
+A stopwatch app built with React and Redux. [Stopwatch App](https://ondercataltepe.surge.sh/)
 
 ## Features
 
-includes lap time list(shortest and longest lap times are marked)
+Includes lap time list(shortest and longest lap times are marked).
 
 ## Scripts
 
